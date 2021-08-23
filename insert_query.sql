@@ -1,0 +1,1 @@
+INSERT INTO _dev_track_customnumbers(user_id, event_type, phone_number, twilio_sid) VALUES
